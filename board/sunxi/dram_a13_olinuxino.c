@@ -4,7 +4,7 @@
 #include <asm/arch/dram.h>
 
 static struct dram_para dram_para = {
-	.clock = 408,
+	.clock = 380,
 	.type = 3,
 	.rank_num = 1,
 	.density = 2048,
